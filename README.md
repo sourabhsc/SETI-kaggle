@@ -12,3 +12,4 @@ this repository tracks my submission and strategy for kaggle challenge in SETI o
 ---  Your challenge is to train an algorithm to find as many needles as you can, while minimizing the number of false positives from the haystack.
 --- streak saver 3 may 19
 ---- stream save 4 may 20.
+---- streak save 5 may 21
