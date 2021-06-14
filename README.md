@@ -16,3 +16,4 @@ this repository tracks my submission and strategy for kaggle challenge in SETI o
 ---- streak save 6 may 22
 ---- streak save 7 may 25
 ---- streak save 8 may 26
+---- streak day 1 worked on understanding the data
