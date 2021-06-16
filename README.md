@@ -18,3 +18,5 @@ this repository tracks my submission and strategy for kaggle challenge in SETI o
 ---- streak save 8 may 26
 ---- streak day 1 worked on understanding the data
 ---- working on knowledge graph and graph databases
+---- swc interview ---> data and knowledge engineer 
+---- ICS--- ERP project  details 
